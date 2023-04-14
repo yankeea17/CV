@@ -1,1 +1,94 @@
 # CV
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Al's Personal Site</title>
+</head>
+
+<body>
+    <table cellspacing="20">
+        <tr>
+            <td><img src="ripleyhike.jpg" alt="Ripley in the Sun" style="width:300px;height:200px;"></td>
+            <td>
+                <h1>Allyson Yankee</h1>
+                <p><em>Dog Walker, Student, Generalist</em></p>
+                <p>I am a dog walker local to Muskegon who is currently teaching myself to code. I have a wide range of
+                    experince in
+                    several different fields and am looking for what I am passionate about.</p>
+            </td>
+        </tr>
+    </table>
+
+
+    <hr>
+    <h3>Education</h3>
+    <ul>
+        <li><a href="https://www.lutheranwestland.com/">Lutheran High School Wesland</a></li>
+        <li><a href="https://www.gvsu.edu">Grand Valley State University</a></li>
+    </ul>
+    <hr>
+    <h3>Work Experince</h3>
+    <table cellspacing="12">
+        <thead>
+            <tr>
+                <th>Dates</th>
+                <th>Work</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2021-2023</td>
+                <td>Bartender/Shift Lead at Pigeon Hill Brewing Company</td>
+            </tr>
+            <tr>
+                <td>2020-2021</td>
+                <td>Production Technician and Bookeeper at JS Buxton</td>
+            </tr>
+            <tr>
+                <td>2015-2020</td>
+                <td>City Letter Carrier at USPS</td>
+            </tr>
+            <tr>
+                <td>2013-2015</td>
+                <td>Assistant Lab Manager and Deputy Court Clerk at 61st District Court</td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <h3>Skills</h3>
+
+    <table cellspacing="12">
+
+        <tr>
+            <td>Microsoft and Google Office</td>
+            <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Computer Hardware and Assembly</td>
+            <td>⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>Office Admisistration</td>
+            <td>⭐⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td>HTML 5</td>
+            <td>⭐</td>
+        </tr>
+        <tr>
+            <td>Heavey Machinery Operation</td>
+            <td>⭐⭐⭐</td>
+        </tr>
+    </table>
+
+    <hr>
+    <a href="hobbies.html">My Hobbies</a>
+    <br>
+    <a href="contactme.html">Contact Me</a>
+
+
+
+</body>
+
+</html>
